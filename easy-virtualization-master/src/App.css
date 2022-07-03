@@ -1,0 +1,28 @@
+.App {
+  position: relative;
+  padding: 50px 0;
+}
+
+.dom-count {
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 20px;
+  left: 20px;
+  padding: 10px;
+  font-size: 20px;
+  background-color: white;
+  border: 1px solid darkgrey;
+  border-radius: 4px;
+}
+
+.dom-count__btn {
+  padding: 8px;
+  margin-left: 10px;
+  background-color: darkslategray;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  font-size: 15px;
+}
